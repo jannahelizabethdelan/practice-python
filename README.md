@@ -5,7 +5,7 @@ Each exercise is developed on its own branch and merged through a pull request.
 
 ## Exercises
 
-- [ ] 01_variables_basics — variables & types
+- [x] 01_variables_basics — variables & types
 - [ ] 02_variables_fstrings — f-strings & type casting
 - [ ] 03_conditions_basic — if / elif / else
 - [ ] 04_conditions_logic — comparison & logical operators
