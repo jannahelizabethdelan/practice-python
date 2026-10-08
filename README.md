@@ -7,7 +7,7 @@ Each exercise is developed on its own branch and merged through a pull request.
 
 - [x] 01_variables_basics — variables & types
 - [x] 02_variables_fstrings — f-strings & type casting
-- [ ] 03_conditions_basic — if / elif / else
+- [x] 03_conditions_basic — if / elif / else
 - [ ] 04_conditions_logic — comparison & logical operators
 - [ ] 05_loops_for — for loop / range
 - [ ] 06_loops_while — while loop
